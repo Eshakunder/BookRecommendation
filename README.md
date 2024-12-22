@@ -1,1 +1,2 @@
-# BookRecommendation
+# Book Recommendation System
+<br> In this project popularity based recommendation system and Colloraborative filtering based recommendation is used . Popularity based recommendation system is based on the number and average number of times a book was rated.Colloraborative filtering is built considering only those users who have given more than 200 ratings and those books which was rated more than 50 times
